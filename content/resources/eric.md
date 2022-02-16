@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-332j-urban-design-fall-2003/154aafd0079eb2e29a6da876130b0abd_eric.pdf
+file: /media/courses/11-332j-urban-design-fall-2003/154aafd0079eb2e29a6da876130b0abd_eric.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: eric.pdf
 uid: 154aafd0-079e-b2e2-9a6d-a876130b0abd

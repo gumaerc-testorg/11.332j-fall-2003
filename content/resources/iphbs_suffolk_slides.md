@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains images depicting Harvard Business School and Suffolk
   University.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-332j-urban-design-fall-2003/fe8b7e98bc8d96c6bf4f2a8d1e57fba5_iphbs_suffolk_slides.pdf
+file: /media/courses/11-332j-urban-design-fall-2003/fe8b7e98bc8d96c6bf4f2a8d1e57fba5_iphbs_suffolk_slides.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: iphbs_suffolk_slides.pdf
 uid: fe8b7e98-bc8d-96c6-bf4f-2a8d1e57fba5

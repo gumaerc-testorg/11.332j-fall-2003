@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-332j-urban-design-fall-2003/0511c97922b7facb4582aa624ca01b0b_mitland.pdf
+file: /media/courses/11-332j-urban-design-fall-2003/0511c97922b7facb4582aa624ca01b0b_mitland.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Maps
+parent_type: CourseSection
 resourcetype: Document
 title: mitland.pdf
 uid: 0511c979-22b7-facb-4582-aa624ca01b0b
