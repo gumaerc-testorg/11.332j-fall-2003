@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Maps
 parent_type: CourseSection
+parent_uid: e1ea2d99-f88d-f855-fe8f-532a7d8e76cc
 resourcetype: Document
 title: zoning.pdf
 uid: 09d2db3f-9095-4c63-a949-279e55ecde6f

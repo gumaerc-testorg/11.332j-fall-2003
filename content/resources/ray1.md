@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1d2d75e6-8a20-e444-ae63-453e00c24adf
 resourcetype: Document
 title: ray1.pdf
 uid: 2356458c-175b-4931-e803-84791552165f

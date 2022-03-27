@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 25da5339-4c2b-7427-d2d9-80efed8dc8a1
 resourcetype: Document
 title: ipsession1.pdf
 uid: 44852507-1653-bf4e-b7eb-8c5a24e21231

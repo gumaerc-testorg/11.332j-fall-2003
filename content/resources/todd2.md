@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1d2d75e6-8a20-e444-ae63-453e00c24adf
 resourcetype: Document
 title: todd2.pdf
 uid: 20815ed6-e821-7a46-2ad8-e0f56f5ce128

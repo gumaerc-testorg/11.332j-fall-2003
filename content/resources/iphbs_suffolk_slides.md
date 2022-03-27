@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 25da5339-4c2b-7427-d2d9-80efed8dc8a1
 resourcetype: Document
 title: iphbs_suffolk_slides.pdf
 uid: fe8b7e98-bc8d-96c6-bf4f-2a8d1e57fba5

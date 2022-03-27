@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Maps
 parent_type: CourseSection
+parent_uid: e1ea2d99-f88d-f855-fe8f-532a7d8e76cc
 resourcetype: Document
 title: context.pdf
 uid: 35fad060-b810-22d6-80b0-d6f1122d6b9f

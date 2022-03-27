@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1d2d75e6-8a20-e444-ae63-453e00c24adf
 resourcetype: Document
 title: eric.pdf
 uid: 154aafd0-079e-b2e2-9a6d-a876130b0abd

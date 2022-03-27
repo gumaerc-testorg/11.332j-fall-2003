@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Maps
 parent_type: CourseSection
+parent_uid: e1ea2d99-f88d-f855-fe8f-532a7d8e76cc
 resourcetype: Document
 title: ortho.pdf
 uid: 77a26e12-763b-4865-2d12-7a1aae24fe35
