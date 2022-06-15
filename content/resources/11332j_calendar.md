@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-332j-urban-design-fall-2003/76614280ddb0e8646476f086288b584d_11332j_calendar.gif
+file: /courses/11-332j-urban-design-fall-2003/76614280ddb0e8646476f086288b584d_11332j_calendar.gif
 file_type: image/gif
 image_metadata:
   caption: ''

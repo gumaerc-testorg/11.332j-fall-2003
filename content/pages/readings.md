@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -53,12 +54,12 @@ City of Cambridge Property Database: An online querying engine for looking up pr
 Reading Summaries
 -----------------
 
-Todd Kohr - MIT Planning 1960-2000 ([PDF]({{< baseurl >}}/resources/todd1))
+Todd Kohr - MIT Planning 1960-2000 ({{% resource_link 82811446-3eb3-7cd1-09d7-e17af18782d4 "PDF" %}})
 
-Ray Hodges - MIT Planning 1960-2000 ([PDF]({{< baseurl >}}/resources/ray1))
+Ray Hodges - MIT Planning 1960-2000 ({{% resource_link 2356458c-175b-4931-e803-84791552165f "PDF" %}})
 
-Todd Kohr - Presidential Task Force Report on Student Life & Learning ([PDF]({{< baseurl >}}/resources/todd2))
+Todd Kohr - Presidential Task Force Report on Student Life & Learning ({{% resource_link 20815ed6-e821-7a46-2ad8-e0f56f5ce128 "PDF" %}})
 
-Ray Hodges - Presidential Task Force Report on Student Life & Learning ([PDF]({{< baseurl >}}/resources/ray2))
+Ray Hodges - Presidential Task Force Report on Student Life & Learning ({{% resource_link 2ac1a934-0009-717b-767e-0a4cc417ffe7 "PDF" %}})
 
-Eric Orozco - Stakeholder Interests ([PDF]({{< baseurl >}}/resources/eric))
+Eric Orozco - Stakeholder Interests ({{% resource_link 154aafd0-079e-b2e2-9a6d-a876130b0abd "PDF" %}})

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-332j-urban-design-fall-2003/09d2db3f90954c63a949279e55ecde6f_zoning.pdf
+file: /courses/11-332j-urban-design-fall-2003/09d2db3f90954c63a949279e55ecde6f_zoning.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

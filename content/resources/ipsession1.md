@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-332j-urban-design-fall-2003/448525071653bf4eb7eb8c5a24e21231_ipsession1.pdf
+file: /courses/11-332j-urban-design-fall-2003/448525071653bf4eb7eb8c5a24e21231_ipsession1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

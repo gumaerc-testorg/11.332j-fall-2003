@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-332j-urban-design-fall-2003/2ac1a9340009717b767e0a4cc417ffe7_ray2.pdf
+file: /courses/11-332j-urban-design-fall-2003/2ac1a9340009717b767e0a4cc417ffe7_ray2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

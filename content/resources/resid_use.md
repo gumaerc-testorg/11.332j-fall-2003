@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-332j-urban-design-fall-2003/6621dae6fa43f0240eb6e3eb36b6a751_resid_use.pdf
+file: /courses/11-332j-urban-design-fall-2003/6621dae6fa43f0240eb6e3eb36b6a751_resid_use.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
