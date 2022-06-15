@@ -1,13 +1,13 @@
 ---
 content_type: page
+description: ''
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: b95ac37a-f19b-50cb-1d90-a6348bf9195f
 ---
-
-MIT and the Urban Neighborhood
-------------------------------
+## MIT and the Urban Neighborhood
 
 The urban setting for major research universities will be one in which there are certain to be both overlapping and competing expectations as to the future use, form and management of that urban setting. It is also clear that many of these expectations are of long-standing while some are new concerns stimulated by the recent growth and change of one or another of the activities in the area. Expectations are also established by new political and administrative leadership and by reference to examples elsewhere that show fresh ways of meeting old issues.
 
@@ -19,37 +19,36 @@ From the many reports and studies that document the expectations of the differen
 
 The pedagogic objectives of the Fall 2003 Studio are:
 
-*   to engage and become familiar with the range of physical attributes entailed in achieving good urban design: built form, public space, landscape, path and access systems, parking, density, activity location and intensity and so on;
-*   to engage and become familiar with instrumental propositions about the realization of urban design, including planning , finance, public/private partnerships, parcelization, phasing, etc.;
-*   to learn the nature, strength and relevance of propositions that seek to relate behavioral and organizational outcomes to these physical attributes and institutional interventions;
-*   to develop skills in working in multi-disciplinary teams; and
-*   to build abilities for working in digital environments including the production of graphic and written evidence in a timely fashion, and in lucid and publishable form.
+- to engage and become familiar with the range of physical attributes entailed in achieving good urban design: built form, public space, landscape, path and access systems, parking, density, activity location and intensity and so on;
+- to engage and become familiar with instrumental propositions about the realization of urban design, including planning , finance, public/private partnerships, parcelization, phasing, etc.;
+- to learn the nature, strength and relevance of propositions that seek to relate behavioral and organizational outcomes to these physical attributes and institutional interventions;
+- to develop skills in working in multi-disciplinary teams; and
+- to build abilities for working in digital environments including the production of graphic and written evidence in a timely fashion, and in lucid and publishable form.
 
 The studio is open to students in the MArch (Level III), SMArchS and MCP programs and we will seek a class of about 15 students in which these three groups are about equally represented.
 
-Project Overview
-----------------
+## Project Overview
 
 Three main tasks, briefly described below, will make up the studio experience. The first will be carried out by teams of two students each; the second by each student working individually; and the third by teams of three or perhaps four students each. The output of each task will be a short 'report' in a form that will allow it to be made available to the whole class and to guests at least two days before the review of that task. Thus the review will be able to be conducted with an emphasis on discussion, rather than presentation, of the students' ideas.
 
-_Task 1: Double 'Readings': Built Form/University Goals_
+### Task 1: Double 'Readings': Built Form/University Goals
 
 Teams of two students will examine and record the built form of a university and its neighborhood and speculate as to the goals and values represented by that form. The same team will study one or more document containing current goals and values at MIT and speculate as to what attributes of built form are likely to enable or encourage the achievement of those goals (weeks 1 through 3).
 
-_Task 2: Brainstorms and Idea_
+### Task 2: Brainstorms and Idea
 
 Working individually, students will diagram one or more central and evocative ideas about the urban design of MIT's neighborhood (week 4).
 
-_Task 3: Urban Design Proposal for MIT's West Village Neighborhood_
+### Task 3: Urban Design Proposal for MIT's West Village Neighborhood
 
 Working in multi-disciplinary teams, students will prepare a detailed urban design proposal for the, (as named by us), West Village Neighborhood centered on Fort Washington Park and devoted specially to housing. Six steps make up this task:
 
-1.  conceptual plan, open spaces, uses and activities, and implementation outline (weeks 5-7);
-2.  streets, transit, parking, blocks, and parcels (weeks 8 & 9);
-3.  building typologies, implementation techniques (weeks 10 & 11);
-4.  testing proposal's performance against goals (weeks 12 & 13);
-5.  report preparation (weeks 13 & 14);
-6.  prepare for review (week 15).
+1. conceptual plan, open spaces, uses and activities, and implementation outline (weeks 5-7);
+2. streets, transit, parking, blocks, and parcels (weeks 8 & 9);
+3. building typologies, implementation techniques (weeks 10 & 11);
+4. testing proposal's performance against goals (weeks 12 & 13);
+5. report preparation (weeks 13 & 14);
+6. prepare for review (week 15).
 
 A 'background book' will be available to each student containing relevant papers, reprints and references as well as a more detailed DRAFT description of each task and a schedule for the studio.
 
