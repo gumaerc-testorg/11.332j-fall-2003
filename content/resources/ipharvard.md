@@ -5,6 +5,7 @@ file: /courses/11-332j-urban-design-fall-2003/e8a90d5156ecd983b10114578d0f7335_i
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ipharvard.pdf
 uid: e8a90d51-56ec-d983-b101-14578d0f7335
 ---
 This file contains images depicting Harvard University.
-

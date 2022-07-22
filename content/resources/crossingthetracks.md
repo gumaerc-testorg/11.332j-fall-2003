@@ -6,6 +6,7 @@ file: /courses/11-332j-urban-design-fall-2003/d3f546f0bf61edabfaeae4f612394566_C
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: CrossingTheTracks.pdf
 uid: d3f546f0-bf61-edab-faea-e4f612394566
 ---
 Proofs for the final publication of class project -- "The Future of the Edge: An examination of the intersection of MIT and Cambridgeport"
-

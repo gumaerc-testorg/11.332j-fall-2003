@@ -5,6 +5,7 @@ file: /courses/11-332j-urban-design-fall-2003/562e7c710c2545317f2973b0cf8ea29a_i
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ipnu.pdf
 uid: 562e7c71-0c25-4531-7f29-73b0cf8ea29a
 ---
 This file contains images depicting Northeastern University.
-
