@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-332j-urban-design-fall-2003/3d96dd6e320efe875cb4918a8aaa82c1_nonres_use.pdf
+file_size: 381171
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
