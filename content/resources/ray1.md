@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-332j-urban-design-fall-2003/2356458c175b4931e80384791552165f_ray1.pdf
+file: /ol-ocw-studio-app/courses/11-332j-urban-design-fall-2003/2356458c175b4931e80384791552165f_ray1.pdf
 file_size: 51442
 file_type: application/pdf
 learning_resource_types:
