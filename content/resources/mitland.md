@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-332j-urban-design-fall-2003/0511c97922b7facb4582aa624ca01b0b_mitland.pdf
+file: /courses/11-332j-urban-design-fall-2003/0511c97922b7facb4582aa624ca01b0b_mitland.pdf
 file_size: 454183
 file_type: application/pdf
 learning_resource_types: []

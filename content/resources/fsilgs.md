@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Proofs for the final publication of class project -- "The Future of
   the Edge: An examination of the intersection of MIT and Cambridgeport"'
-file: /ol-ocw-studio-app/courses/11-332j-urban-design-fall-2003/b8781ad78e6180fd92e3b88b65a04a76_FSILGs.pdf
+file: /courses/11-332j-urban-design-fall-2003/b8781ad78e6180fd92e3b88b65a04a76_FSILGs.pdf
 file_size: 276112
 file_type: application/pdf
 learning_resource_types:
